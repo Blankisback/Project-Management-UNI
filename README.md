@@ -6,4 +6,4 @@ Created by:
 - Mikolaj
 
 
-This project covers....
+This project covers differences between netflix and hulu
