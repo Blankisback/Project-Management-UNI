@@ -1,7 +1,9 @@
 # Project-Management-UNI
 
 Created by:
-- Tom S
+- Tom
+- Brandon
+- Mikolaj
 
 
 This project covers....
