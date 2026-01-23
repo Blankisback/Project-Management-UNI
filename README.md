@@ -6,4 +6,4 @@ Created by:
 - Mikolaj
 
 
-This project covers differences between netflix and hulu
+This project covers differences between netflix and amazon prime
