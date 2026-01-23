@@ -6,4 +6,5 @@ Created by:
 - Mikolaj
 
 
-This project covers differences between netflix and amazon prime
+This project covers differences between netflix and amazon prime video streaming services
+
