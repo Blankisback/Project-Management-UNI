@@ -1,2 +1,7 @@
 # Project-Management-UNI
-repo for project management
+
+Created by:
+- Tom S
+
+
+This project covers....
