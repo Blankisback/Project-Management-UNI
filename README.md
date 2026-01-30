@@ -27,3 +27,13 @@ Netflix also suffers from this issue where all film and tv titles are reliant on
 This could all be fixed with a simple setting in the menu or just by having the click through show the title as normal text in the menu along with the larger styalised version.
 
 
+**User Analysis**
+
+The user of these websites will want catagorised searchable media.
+We can use tags to catagorise different media; anime, horror, thriller, action, adventrue, etc etc...
+The titeles should be easy to read, can do the title as part of thumbnail but for accessibility there should be an option to display tital with high contrast beneath the thumbnails.
+Age rateing should be displayed along with a blurb/synopsis of the media on initial click through.
+
+As a New user I want to easily be able to browse and experience the full libary of media on this site and be able to quickly and painlessly get a grasp of what media they have.
+
+As a returning visitor I want to be able to continue with a show i may have started a while a go so 
