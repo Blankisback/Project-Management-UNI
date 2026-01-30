@@ -35,18 +35,25 @@ This could all be fixed with a simple setting in the menu or just by having the 
 
 ### Profile One:
 Eighteen Years Old, First Time User.
+
 Traits; Budget Concies, Visual Imparement, Prefers Darker Backgrounds.
+
 Accessibility Requirments: High Contrast easy to Read titles
 
 ### Profile Two:
 Fiftey Six Years Old, Returning User.
+
 Traits: Hearing Difficulties, Only watches an episode or two/month of a long serise show.
+
 Accessibility Requirements: Subtitles on Media potential add an equalizer so they can adjust audio ballance
 
 ### Profile Three:
 Thirty Years Old, Frequent User.
+
 Traits: Reguarly binges entire show, main complaint is falling asleep and missing content. 
 
+Accesibility Requirements: A sleep timer/Auto pause after inactivity for X, Ability to quickly and effortless reset progress on watched shows at will.
 
+### User Stories
 
 
