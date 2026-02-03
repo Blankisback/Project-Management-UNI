@@ -43,18 +43,18 @@ Traits; Budget Concies, Visual Imparement, Prefers Darker Backgrounds.
 Accessibility Requirments: High Contrast easy to Read titles
 
 ### Profile Two:
-Fiftey Six Years Old, Returning User.
+Fifty Six Years Old, Returning User.
 
-Traits: Hearing Difficulties, Only watches an episode or two/month of a long serise show.
+Traits: Hearing Difficulties, Only watches an episode or two/month of a long seris show.
 
-Accessibility Requirements: Subtitles on Media potential add an equalizer so they can adjust audio ballance
+Accessibility Requirements: Subtitles on Media potential add an equalizer so they can adjust audio balance
 
 ### Profile Three:
 Thirty Years Old, Frequent User.
 
-Traits: Reguarly binges entire show, main complaint is falling asleep and missing content. 
+Traits: Reguarly binges entire shows, main complaint is falling asleep and missing content. 
 
-Accesibility Requirements: A sleep timer/Auto pause after inactivity for X, Ability to quickly and effortless reset progress on watched shows at will.
+Accesibility Requirements: A sleep timer/Auto pause after inactivity for X, Ability to quickly and effortless reset progress on watched shows at will.  - will double check this but i think this is a function on netflix already (the are you still watching after inactivity between episodes)
 
 ### User Stories
 
