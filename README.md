@@ -1,4 +1,4 @@
-# Project-Management-UNI
+# Designing for the User Experience-UNI
 
 Created by:
 - Tom
