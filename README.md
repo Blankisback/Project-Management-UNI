@@ -36,22 +36,39 @@ This could all be fixed with a simple setting in the menu or just by having the 
 (25 Marks)
 
 ### Profile One:
+
 Eighteen Years Old, First Time User.
+
 Traits; Budget Conscious, Visual Imparement, Prefers Darker Backgrounds.
-Accessibility/Requirments: High Contrast easy to Read titles
+
+Accessibility/Requirments: High Contrast easy to Read titles.
+
 User Story: As a young individual, I am very concerned over budget. I want clear pricing easy term lengths and a straight forward cancelation process.
+
 Testing Criterea: Given this user is visualy impared, forming a focus group to test what is more visible to a range of different people and selecting the three best options to implement for users to select what works best for them.
 
+
 ### Profile Two:
+
 Fifty Six Years Old, Returning User.
+
 Traits: Hearing Difficulties, Only watches an episode or two/month of a long seris show.
+
 Accessibility/Requirements: Subtitles on Media potential add an equalizer so they can adjust audio balance. Long term memory of what shows they have watched, maybe an ai recap blurb.
+
 User Story: With my hearing difficulties I want subtitles to be easily accessible, customisable, and persitant between shows. They should also be word for word to what is said in the media.
+
 Testing Critera: With the hearing dificulties from this user having subtitles that can be either manualy selected to always be in the same place or automaticaly adjust bassed on the contents of the media. The user should also be able to adjust the text and a background colour with opacity slider to fine tune them to their liking.
 
+
 ### Profile Three:
+
 Thirty Years Old, Frequent User.
+
 Traits: Reguarly binges entire shows, main complaint is falling asleep and missing content. 
+
 Accesibility/Requirements: A sleep timer/Auto pause after inactivity for X, Ability to quickly and effortless reset progress on watched shows at will.  - will double check this but i think this is a function on netflix already (the are you still watching after inactivity between episodes)
+
 User Story: As a late night viewer, I tend to fall asleep during shows as such a feature which detects in-activity would be nice to help minimise the loss. This feature should be able to be dissabled though for when I am purposfully binging a show. An auto play feature would also be nice continuing on a movie with the next in the order if it is part of a larger serise or with something similiar if it is standalone.
+
 Testing Critera: As this user tends to sleep through media a simple popup menu that automaticaly pauses the media in the background, asking if they want to continue, continue uninturpted or exit. 
