@@ -7,7 +7,6 @@ Created by:
 
 
 This project covers differences between netflix and amazon prime video streaming services
-## Table of Contents
 
 
 ## **Buisness neeeds and Website Development**
