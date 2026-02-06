@@ -17,7 +17,7 @@ This project covers differences between netflix and amazon prime video streaming
 Both of these companies use their websites as streaming services, these sites where developed to effectivly share content with subscribers and to try and keep them engaged for as much as possible. They acchieved this by showing a variety of options catagroised into different sections; top ten lists, thrillers, action movies, easy watching etc and using captivating screenshots to try to sell each show of film to the user.
 
 Starting with Amazon Prime video
-Amazon does a lot of their design fairly well nothing is overly clutterd, there is deacent spacing between all the titles. The worst part of it is they are reliant on the thumbnails of each of the show or film for the name, this could cause issues for people with visual impairment as some have low contrast or are overly stialised. One solution for this could be a mode where the title of the program is displayed bellow it. While doing this we could also accomidate certain lerning disabilitys such as dyslexia with a more friendly font and or a higher contrast background.
+Amazon does a lot of their design fairly well nothing is overly clutterd, there is decent spacing between all the titles. The worst part of it is they are reliant on the thumbnails of each of the show or film for the name, this could cause issues for people with visual impairment as some have low contrast or are overly stialised. One solution for this could be a mode where the title of the program is displayed bellow it. While doing this we could also accomidate certain lerning disabilitys such as dyslexia with a more friendly font and or a higher contrast background.
 
 <img width="1737" height="1014" alt="slice1" src="https://github.com/user-attachments/assets/4471e1fa-fc5f-417c-ba32-23cc32a167a7" />
 
@@ -52,13 +52,13 @@ Testing Criterea: Given this user is visualy impared, forming a focus group to t
 
 Fifty Six Years Old, Returning User.
 
-Traits: Hearing Difficulties, Only watches an episode or two/month of a long seris show.
+Traits: Hearing Difficulties, Only watches an episode or two/month of a long series/show.
 
-Accessibility/Requirements: Subtitles on Media potential add an equalizer so they can adjust audio balance. Long term memory of what shows they have watched, maybe an ai recap blurb.
+Accessibility/Requirements: Subtitles on Media potentially add an equalizer so they can adjust audio balance. Long term memory of what shows they have watched, maybe an ai recap blurb.
 
-User Story: With my hearing difficulties I want subtitles to be easily accessible, customisable, and persitant between shows. They should also be word for word to what is said in the media.
+User Story: With my hearing difficulties I want subtitles to be easily accessible, customisable, and persistant between shows. They should also be word for word to what is said in the media.
 
-Testing Critera: With the hearing dificulties from this user having subtitles that can be either manualy selected to always be in the same place or automaticaly adjust bassed on the contents of the media. The user should also be able to adjust the text and a background colour with opacity slider to fine tune them to their liking.
+Testing Critera: With the hearing difficulties from this user having subtitles that can be either manually selected to always be in the same place or automaticaly adjusted based on the contents of the media. The user should also be able to adjust the text and a background colour with opacity slider to fine tune them to their liking.
 
 
 ### Profile Three:
@@ -71,4 +71,5 @@ Accesibility/Requirements: A sleep timer/Auto pause after inactivity for X, Abil
 
 User Story: As a late night viewer, I tend to fall asleep during shows as such a feature which detects in-activity would be nice to help minimise the loss. This feature should be able to be dissabled though for when I am purposfully binging a show. An auto play feature would also be nice continuing on a movie with the next in the order if it is part of a larger serise or with something similiar if it is standalone.
 
-Testing Critera: As this user tends to sleep through media a simple popup menu that automaticaly pauses the media in the background, asking if they want to continue, continue uninturpted or exit. 
+Testing Critera: As this user tends to sleep through media a simple popup menu that automaticaly pauses the media in the background, asking if they want to continue, continue uninterupted or exit. - could be done thorugh a simple are you there yes/no and if no response within 5 minutes the device goes into rest mode
+
