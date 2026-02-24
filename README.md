@@ -77,3 +77,9 @@ Testing Critera: As this user tends to sleep through media a simple popup menu t
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/79ec5609-3d92-455b-b9c1-7150d3eac115" />
 
 This framework is a mix of ideas from Netflix and Amazon Prime, it makes use of the Z pattern which the human eye follows which is why I have placed the title for the site in the top left, this site also follows the rule of thirds as i have seperated the site into parts for, reccomendations, continue watchimg and genres.
+
+<img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/0adc9c42-922a-4597-9890-19b4497b18ae" />
+
+For users who already know what movie they want to watch, there is an implemented search button which allows you to filter movies by name:
+
+<img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/97ed25f1-b79b-410c-9498-32ad16994b5a" />
