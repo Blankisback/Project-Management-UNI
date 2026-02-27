@@ -12,6 +12,7 @@ This project covers differences between netflix and amazon prime video streaming
 ## **Buisness neeeds and Website Development**
 (10 Marks)
 
+-- expand a list of why we are building this website
 
 Both of these companies use their websites as streaming services, these sites where developed to effectivly share content with subscribers and to try and keep them engaged for as much as possible. They acchieved this by showing a variety of options catagroised into different sections; top ten lists, thrillers, action movies, easy watching etc and using captivating screenshots to try to sell each show of film to the user.
 
@@ -32,9 +33,23 @@ This could all be fixed with a simple setting in the menu or just by having the 
 
 With regards to how the website will be used (Falkowski-Gilski and Uhl, 2020) gives a in depth survery of 16-25 year olds how they consume content, covering: what services do they pay for, what devices do they watch on, even down to their internet speed and prefered audio quailities. We will be taking into account most of this paper for our framework.
 
+-- add a conclusion to the research 
 
 ## **User Analysis**
 (25 Marks)
+
+-- expand user stories into epics
+https://www.atlassian.com/agile/project-management/epics-stories-themes
+
+tasks take into account function required by epics/stories
+
+acceptence critera is testing of the tasks
+https://www.atlassian.com/agile/project-management/user-stories
+
+"given something 
+when 
+then"
+for testing ^
 
 ### Profile One:
 
