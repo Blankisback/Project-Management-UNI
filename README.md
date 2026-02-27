@@ -6,7 +6,7 @@ Created by:
 - Mikolaj
 
 
-This project covers differences between netflix and amazon prime video streaming services -- Expand
+This project covers differences between Netflix and Amazon prime video streaming services. Specifically our project focuses on user accessiblity such as laying out the site into categories based on genres, user tastes etc.
 
 
 ## **Buisness neeeds and Website Development**
@@ -16,14 +16,14 @@ This project covers differences between netflix and amazon prime video streaming
 
 Both of these companies use their websites as streaming services, these sites where developed to effectivly share content with subscribers and to try and keep them engaged for as much as possible. They acchieved this by showing a variety of options catagroised into different sections; top ten lists, thrillers, action movies, easy watching etc and using captivating screenshots to try to sell each show of film to the user.
 
-Starting with Amazon Prime video
+Starting with Amazon Prime video:
 Amazon does a lot of their design fairly well nothing is overly clutterd, there is decent spacing between all the titles. The worst part of it is they are reliant on the thumbnails of each of the show or film for the name, this could cause issues for people with visual impairment as some have low contrast or are overly stialised. One solution for this could be a mode where the title of the program is displayed bellow it. While doing this we could also accomidate certain lerning disabilitys such as dyslexia with a more friendly font and or a higher contrast background.
 
 <img width="1737" height="1014" alt="slice1" src="https://github.com/user-attachments/assets/4471e1fa-fc5f-417c-ba32-23cc32a167a7" />
 
 <img width="1867" height="991" alt="slice2" src="https://github.com/user-attachments/assets/cf6f8843-42fa-4597-8d63-9df270661c6c" />
 
-Netflix also suffers from this issue where all film and tv titles are reliant on the product thumbnail even on its click through menu where it has enough space to cleanly layout the title of the show they instead just go for a darkend preview with the ttitle on top creating some contrast but certain senarios that could still be hard to read.
+Netflix also suffers from this issue where all film and tv titles are reliant on the product thumbnail even on its click through menu where it has enough space to cleanly layout the title of the show they instead just go for a darkend preview with the title on top creating some contrast but certain scenarios that could still be hard to read especially for users with reading difficulties.
 
 <img width="3133" height="972" alt="slice3" src="https://github.com/user-attachments/assets/c6f2182f-c776-49fd-b19b-ece9c9e890f4" />
 
@@ -102,7 +102,7 @@ For users who already know what movie they want to watch, there is an implemente
 
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/97ed25f1-b79b-410c-9498-32ad16994b5a" />
 
-### Refferences 
+### References 
 
 Falkowski-Gilski, P. and Uhl, T. (2020). Current trends in consumption of multimedia content using online streaming platforms: A user-centric survey. [online] Science Direct. Available at: https://www.sciencedirect.com/science/article/abs/pii/S1574013719302473?via%3Dihub [Accessed 30 Jan. 2026].
 
