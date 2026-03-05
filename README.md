@@ -12,8 +12,6 @@ This project covers differences between Netflix and Amazon prime video streaming
 ## **Business needs and Website Development**
 (10 Marks)
 
--- expand a list of why we are building this website
-
 We are building this website to help make streaming more accessible for all users, one key focus of our project is to help users with disabilities to be able to view streams, this could be through subtitle customization such as changing the font of the subtitles to be more dyslexia friendly. This is as the key to retaining users is usability, if the site looks nice but is unusable users will find alternate solutions.
 
 Both of these companies use their websites as streaming services, these sites where developed to effectivly share content with subscribers and to try and keep them engaged for as much as possible. They achieved this by showing a variety of options catagroised into different sections; top ten lists, thrillers, action movies, easy watching etc and using enticing screenshots to try to sell each show of film to the user.
@@ -35,23 +33,10 @@ This could all be fixed with a simple setting in the menu or just by having the 
 
 With regards to how the website will be used (Falkowski-Gilski and Uhl, 2020) gives a in depth survery of 16-25 year olds how they consume content, covering: what services do they pay for, what devices do they watch on, even down to their internet speed and prefered audio qualities. We will be taking into account most of this paper for our framework.
 
--- add a conclusion to the research 
+In conclusion both Amazon and Netflix provide interfaces that are structured well with massive libarys but are just missing the mark a bit on some of their accessibility points with some simple design adjustments this would make both the sites a lot easier to use for a large audience of people.
 
-## **User Analysis**
+## **User Analysis** 
 (25 Marks)
-
--- expand user stories into epics
-https://www.atlassian.com/agile/project-management/epics-stories-themes
-
-tasks take into account function required by epics/stories
-
-acceptence critera is testing of the tasks
-https://www.atlassian.com/agile/project-management/user-stories
-
-"given something 
-when 
-then"
-for testing ^
 
 ### Profile One:
 
