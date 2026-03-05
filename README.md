@@ -57,17 +57,6 @@ for testing ^
 
 <img width="656" height="606" alt="image" src="https://github.com/user-attachments/assets/8b947f6b-755a-4dc1-9c7f-028bf482430c" />
 
-Eighteen Years Old, First Time User.
-
-Traits: Budget Conscious, Visual Imparement, Prefers Darker Backgrounds.
-
-Accessibility/Requirements: High Contrast easy to Read titles.
-
-User Story: As a young individual, I am very concerned over budget. I want clear pricing easy term lengths and a straight forward cancellation process.
-
-Testing Criterea: Given this user is visualy impared, forming a focus group to test what is more visible to a range of different people and selecting the three best options to implement for users to select what works best for them.
-
-
 ### Profile Two:
 
 Fifty Six Years Old, Returning User.
