@@ -55,6 +55,8 @@ for testing ^
 
 ### Profile One:
 
+<img width="656" height="606" alt="image" src="https://github.com/user-attachments/assets/8b947f6b-755a-4dc1-9c7f-028bf482430c" />
+
 Eighteen Years Old, First Time User.
 
 Traits: Budget Conscious, Visual Imparement, Prefers Darker Backgrounds.
