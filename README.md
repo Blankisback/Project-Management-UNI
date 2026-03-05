@@ -55,11 +55,11 @@ for testing ^
 
 ### Profile One:
 
-Eighteen Years Old, First Time User.
+Eighteen Years Old, First Time User. ### PROMPT FOR IMAGE GENERATE - generate me an image of an 18 year old male, wearing circular framed glasses with a brown comeover haircut, he should be facing directly towards the camera with just his head in frame
 
-Traits; Budget Conscious, Visual Imparement, Prefers Darker Backgrounds.
+Traits: Budget Conscious, Visual Imparement, Prefers Darker Backgrounds.
 
-Accessibility/Requirments: High Contrast easy to Read titles.
+Accessibility/Requirements: High Contrast easy to Read titles.
 
 User Story: As a young individual, I am very concerned over budget. I want clear pricing easy term lengths and a straight forward cancellation process.
 
@@ -76,7 +76,7 @@ Accessibility/Requirements: Subtitles on media potentially add an equalizer so t
 
 User Story: With my hearing difficulties I want subtitles to be easily accessible, customisable, and consistent between shows. They should also be word for word to what is said in the media.
 
-Testing Critera: With the hearing difficulties from this user having subtitles that can be either manually selected to always be in the same place or automaticaly adjusted based on the contents of the media. The user should also be able to adjust the text and a background colour with opacity slider to fine tune them to their liking.
+Testing Criteria: With the hearing difficulties from this user having subtitles that can be either manually selected to always be in the same place or automaticaly adjusted based on the contents of the media. The user should also be able to adjust the text and a background colour with opacity slider to fine tune them to their liking.
 
 
 ### Profile Three:
@@ -101,7 +101,7 @@ This framework is a mix of ideas from Netflix and Amazon Prime. It makes use of 
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/0adc9c42-922a-4597-9890-19b4497b18ae" />
 
 
-For users who already know what movie they want to watch, there is an implemented search button which allows you to filter movies by name which is located in the top right corner as this is a universal feature across all streaming services:
+For users who already know the title of what movie/show they want to watch, there is an implemented search button which allows you to filter movies by name which is located in the top right corner as this is a universal feature across all streaming services - however this does require a keyboard to search as there is no implemented on screen keyboard, for additional future compatibility we may implement an onscreen keyboard such as how netflix have when accessing from a console/tv device:
 
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/97ed25f1-b79b-410c-9498-32ad16994b5a" />
 
