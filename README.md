@@ -59,16 +59,7 @@ for testing ^
 
 ### Profile Two:
 
-Fifty Six Years Old, Returning User.
-
-Traits: Hearing Difficulties, only watches an episode or two/month of a long series/show.
-
-Accessibility/Requirements: Subtitles on media potentially add an equalizer so they can adjust audio balance. Long term memory of what shows they have watched, maybe an ai recap blurb.
-
-User Story: With my hearing difficulties I want subtitles to be easily accessible, customisable, and consistent between shows. They should also be word for word to what is said in the media.
-
-Testing Criteria: With the hearing difficulties from this user having subtitles that can be either manually selected to always be in the same place or automaticaly adjusted based on the contents of the media. The user should also be able to adjust the text and a background colour with opacity slider to fine tune them to their liking.
-
+<img width="657" height="611" alt="image" src="https://github.com/user-attachments/assets/706095b8-58f8-4dcf-a979-61d7995dddfa" />
 
 ### Profile Three:
 
