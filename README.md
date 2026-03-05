@@ -64,6 +64,10 @@ For users who already know the title of what movie/show they want to watch, ther
 
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/97ed25f1-b79b-410c-9498-32ad16994b5a" />
 
+For the required form we have a free trial for the Profile One. All the text is high contrast and clearly visable to what you are agreeing or signing up to.
+<img width="3840" height="3840" alt="DEUX SignUp form" src="https://github.com/user-attachments/assets/fd3da6b4-4854-4f90-af11-4c176a594561" />
+
+
 ### References 
 
 Falkowski-Gilski, P. and Uhl, T. (2020). Current trends in consumption of multimedia content using online streaming platforms: A user-centric survey. [online] Science Direct. Available at: https://www.sciencedirect.com/science/article/abs/pii/S1574013719302473?via%3Dihub [Accessed 30 Jan. 2026].
