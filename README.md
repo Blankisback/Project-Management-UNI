@@ -45,7 +45,7 @@ User analysis a combination of Brandon and Mikolaj
 
 ### Profile Two:
 
-<img width="657" height="611" alt="image" src="https://github.com/user-attachments/assets/706095b8-58f8-4dcf-a979-61d7995dddfa" />
+<img width="935" height="610" alt="image" src="https://github.com/user-attachments/assets/bda11eb3-cbfb-43c6-a713-8eefe872695b" />
 
 ### Profile Three:
 
