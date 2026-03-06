@@ -54,6 +54,8 @@ User analysis a combination of Brandon and Mikolaj
 ## Demo Framework
 (40 Marks)
 
+For the general colour scheme of our framework we chose darker colour schemes as they are easier on the eyes then something bright as most media is better to consume in a darker room a dark background dosnt flash the user and helps preserver the adjustment of the eyes. The red again is a deacent contrast to the black while still not being obnoxius in a dimily lit setting.
+
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/79ec5609-3d92-455b-b9c1-7150d3eac115" />
 
 This framework is a mix of ideas from Netflix and Amazon Prime. It makes use of the Z pattern which the human eye follows which is why I have placed the title for the site in the top left, this site also follows the rule of thirds as I have seperated the site into parts for, reccomendations, continue watching and genres.
