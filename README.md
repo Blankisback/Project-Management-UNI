@@ -49,7 +49,7 @@ User analysis a combination of Brandon and Mikolaj
 
 ### Profile Three:
 
-<img width="660" height="609" alt="image" src="https://github.com/user-attachments/assets/434228af-6961-49b2-b84d-92039291ccdc" />
+<img width="927" height="608" alt="image" src="https://github.com/user-attachments/assets/8700dc22-eb64-4474-be1f-27cd18063095" />
 
 ## Demo Framework
 (40 Marks)
