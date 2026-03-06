@@ -80,4 +80,6 @@ Falkowski-Gilski, P. and Uhl, T. (2020). Current trends in consumption of multim
 
 Lys Forstner, S. (2023). Designing a Dyslexia-Friendly Interaction with News Articles. [online] Sikt.no. Available at: https://nva.sikt.no/registration/0198f2238335-0613e77c-285b-4fa1-bf80-18cee64fa1ca [Accessed 23 Jan. 2026].
 
+OpenAI (2025). ChatGPT. ChatGPT. Available at: https://chatgpt.com/ [Accessed 6 Mar. 2026].
+
 W3C (2025). Web Content Accessibility Guidelines (WCAG) 2.1. W3.org. Available at: https://www.w3.org/TR/WCAG21/ [Accessed 23 Jan. 2026].
