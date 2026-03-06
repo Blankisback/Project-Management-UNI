@@ -33,7 +33,7 @@ This could all be fixed with a simple setting in the menu or just by having the 
 
 With regards to how the website will be used (Falkowski-Gilski and Uhl, 2020) gives a in depth survery of 16-25 year olds how they consume content, covering: what services do they pay for, what devices do they watch on, even down to their internet speed and prefered audio qualities. We will be taking into account most of this paper for our framework.
 
-In conclusion both Amazon and Netflix provide interfaces that are structured well with massive libarys but are just missing the mark a bit on some of their accessibility points with some simple design adjustments this would make both the sites a lot easier to use for a large audience of people.
+In conclusion both Amazon and Netflix provide interfaces that are structured well with massive libarys but are just missing the mark a bit on some of their accessibility points with some simple design adjustments this would make both the sites a lot easier to use for a large audience of people. We are taking heavy insperation from the design choices of both netflix and amazon and to our best ability implement thouse features in an attempt to conform with WCAG
 
 ## **User Analysis** 
 (25 Marks)
