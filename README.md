@@ -67,7 +67,7 @@ For users who already know the title of what movie/show they want to watch, ther
 
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/97ed25f1-b79b-410c-9498-32ad16994b5a" />
 
-For the required form we have a free trial for the Profile One. All the text is high contrast and clearly visable to what you are agreeing or signing up to.
+For the required form we have a free trial for the Profile One. All the text is high contrast and clearly visable to what you are agreeing or signing up to. This will also be navigatatble by keyboard input using the tab key to switch between boxes
 <img width="3840" height="3840" alt="DEUX SignUp form" src="https://github.com/user-attachments/assets/fd3da6b4-4854-4f90-af11-4c176a594561" />
 
 Within the form we will have different types of error handling that are not present on the bassic framework
