@@ -70,12 +70,12 @@ For users who already know the title of what movie/show they want to watch, ther
 For the required form we have a free trial for the Profile One. All the text is high contrast and clearly visable to what you are agreeing or signing up to. This will also be navigatatble by keyboard input using the tab key to switch between boxes
 <img width="3840" height="3840" alt="DEUX SignUp form" src="https://github.com/user-attachments/assets/fd3da6b4-4854-4f90-af11-4c176a594561" />
 
-Within the form we will have different types of error handling that are not present on the bassic framework
-This could be done by giving a faint examample of what to fill in such as
+Within the form we will have different types of error handling that are not present on the basic framework.
+This could be done by giving a faint example of what to fill in such as:
 <img width="2096" height="1616" alt="slice1" src="https://github.com/user-attachments/assets/b3e88641-7d86-4483-af9e-37df199de2fe" />
 This prompts the user how to fill in the box to key them in the write direction another way we could do this is with error detection in the text field. This will read what the user writes and can prompt if the users input is invalid either in real time or when the user tries to submit the form.
 <img width="2096" height="872" alt="slice2" src="https://github.com/user-attachments/assets/8fc21df3-b0c6-4156-b991-b89e7928c584" />
-It would look somewhat like this if we implemented that
+It would look somewhat like this if we implemented that feature.
 
 ### References 
 Amazon (n.d.). Amazon.co.uk: Prime Video. [online] www.amazon.co.uk. Available at: https://www.amazon.co.uk/Amazon-Video/b?&node=3010085031&ref=dvm_MLP_ROWEU_UK_1 [Accessed 6 Mar. 2026].
